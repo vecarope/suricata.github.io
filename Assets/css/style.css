@@ -1,0 +1,16 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-style: bold;
+    font-size: 60px;
+    text-align: center;
+    color: #707070;
+}
+
+nav.navbar ul.nav li {
+    font-family: "open sans" sans-serif;
+    text-align: right;
+    font-size: 16px;
+}
